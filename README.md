@@ -12,13 +12,13 @@ The **Smart_Play_Bot** is designed to automate interactions with the SmartPlay p
 
 ## Table of Contents
 
-- [Hikiniku_To_Come_Bot](#hikiniku_to_come_bot)
+- [Hikiniku_To_Come_Bot (Ongoing)](#hikiniku_to_come_bot)
   - [Overview](#overview)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
   
-- [Smart_Play_Bot](/Smart_Play_Bot/README.md)
+- [Smart_Play_Bot (Completed soon)](/Smart_Play_Bot/README.md)
   - [Overview](/Smart_Play_Bot/README.md)
   - [Features](/Smart_Play_Bot/README.md)
   - [Installation](/Smart_Play_Bot/README.md)
